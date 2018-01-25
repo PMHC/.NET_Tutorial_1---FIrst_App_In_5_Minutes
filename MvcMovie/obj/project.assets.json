@@ -12540,12 +12540,15 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\PMHC\\Documents\\Projekter (C#)\\MvcMovie\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\PMHC\\Documents\\Projekter\\NET_Tutorial_1\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\PMHC\\Documents\\Projekter (C#)\\MvcMovie\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\PMHC\\Documents\\Projekter\\NET_Tutorial_1\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\PMHC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PMHC\\Documents\\Projekter (C#)\\MvcMovie\\MvcMovie\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\PMHC\\Documents\\Projekter\\NET_Tutorial_1\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

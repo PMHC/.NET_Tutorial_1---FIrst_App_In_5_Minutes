@@ -9,3 +9,14 @@ C:\Users\PMHC\Documents\Projekter (C#)\MvcMovie\MvcMovie\MvcMovie\obj\Debug\netc
 C:\Users\PMHC\Documents\Projekter (C#)\MvcMovie\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
 C:\Users\PMHC\Documents\Projekter (C#)\MvcMovie\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
 C:\Users\PMHC\Documents\Projekter (C#)\MvcMovie\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\Users\PMHC\Documents\Projekter\NET_Tutorial_1\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\PMHC\Documents\Projekter\NET_Tutorial_1\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\PMHC\Documents\Projekter\NET_Tutorial_1\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\PMHC\Documents\Projekter\NET_Tutorial_1\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+C:\Users\PMHC\Documents\Projekter\NET_Tutorial_1\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\PMHC\Documents\Projekter\NET_Tutorial_1\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\Users\PMHC\Documents\Projekter\NET_Tutorial_1\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+C:\Users\PMHC\Documents\Projekter\NET_Tutorial_1\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+C:\Users\PMHC\Documents\Projekter\NET_Tutorial_1\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+C:\Users\PMHC\Documents\Projekter\NET_Tutorial_1\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
+C:\Users\PMHC\Documents\Projekter\NET_Tutorial_1\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
